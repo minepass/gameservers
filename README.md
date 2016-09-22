@@ -1,0 +1,2 @@
+# gameservers
+MinePass Gameservers
