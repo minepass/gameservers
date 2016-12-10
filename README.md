@@ -1,13 +1,18 @@
 # MinePass Game Servers
 
-Please refer to the following GitHub repositories for more information:
+## Releases available from [files.minepass.net](http://files.minepass.net)
 
-* __Forge Mod__
-  [gameserver-forge](https://github.com/minepass/gameserver-forge) [![Build Status](https://travis-ci.org/minepass/gameserver-forge.svg?branch=master)](https://travis-ci.org/minepass/gameserver-forge)
+### Source code and build status...
+
+* __Forge Mod__  
+  [gameserver-forge](https://github.com/minepass/gameserver-forge)  
+  [![Build Status](https://travis-ci.org/minepass/gameserver-forge.svg?branch=master)](https://travis-ci.org/minepass/gameserver-forge)
 * __Spigot / Bukkit__  
-  [gameserver-spigot](https://github.com/minepass/gameserver-spigot) [![Build Status](https://travis-ci.org/minepass/gameserver-spigot.svg?branch=master)](https://travis-ci.org/minepass/gameserver-spigot)
-* __Wrapper for Vanilla Minecraft__
-  [gameserver-mcwrapper](https://github.com/minepass/gameserver-mcwrapper) [![Build Status](https://travis-ci.org/minepass/gameserver-mcwrapper.svg?branch=master)](https://travis-ci.org/minepass/gameserver-mcwrapper)
+  [gameserver-spigot](https://github.com/minepass/gameserver-spigot)  
+  [![Build Status](https://travis-ci.org/minepass/gameserver-spigot.svg?branch=master)](https://travis-ci.org/minepass/gameserver-spigot)
+* __Wrapper for Vanilla Minecraft__  
+  [gameserver-mcwrapper](https://github.com/minepass/gameserver-mcwrapper)  
+  [![Build Status](https://travis-ci.org/minepass/gameserver-mcwrapper.svg?branch=master)](https://travis-ci.org/minepass/gameserver-mcwrapper)
 
 
 ### Other Resources
